@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sbusiso Xulu",
+    "about": "Ibhaka-bhaka",
+    "image": "https://i.postimg.cc/3rnPBBkk/IMG-20250507-WA0020.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sfundo Makhanya",
+    "about": "Inceku",
+    "image": "https://i.postimg.cc/tT1XjMZm/20250324-085457.jpg"
+  },
+  {
+    "id": 3,
+    "name": "NhloniphoMakhanya",
+    "about": "Ka Bo Yellow",
+    "image": "https://i.postimg.cc/QtDR6YgT/IMG-20250414-WA0001.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sizwe Ndlovu",
+    "about": "QA Engineer",
+    "image": "/images/team-placeholder.jpg"
+  }
+]
