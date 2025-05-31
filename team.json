@@ -14,7 +14,7 @@
   {
     "id": 3,
     "name": "Sfundo Makhanya",
-    "about": "Inceku",
+    "about": "Nceku",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": 7,
     "name": "Nkosnomusa Masondo",
-    "about": "Aus Nomsa",
+    "about": "Aus'Nomsa",
     "image": "https://i.postimg.cc/XYdZCqR3/IMG-20250221-WA0003.jpg"
   },
   {
@@ -50,7 +50,7 @@
   {
     "id": 9,
     "name": "Nkosenhle Sthole",
-    "about": "Long man",
+    "about": "Long-man",
     "image": "https://i.postimg.cc/Vst5TdNt/IMG-20241118-124105.jpg"
   },
   {
@@ -85,8 +85,14 @@
   },
   {
     "id": 15,
+    "name": "Lusanda Ntuli",
+    "about": "Impisi",
+    "image": "https://i.postimg.cc/MZBfXRTs/20250224-085607.jpg"
+  },
+  {
+    "id": 16,
     "name": "Nhlonipho Makhanya",
-    "about": "Ka Bo Yellow",
+    "about": "Yellow-Bone",
     "image": "https://i.postimg.cc/c1pswtK6/20250225-073753.jpg"
   }
 ]
