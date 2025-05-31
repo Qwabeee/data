@@ -5,47 +5,61 @@
     "about": "Scam",
     "image": "https://i.postimg.cc/FRSRcyxF/IMG-20241120-103153.jpg"
   },
+  
   {
     "id": 2,
+    "name": "Snokwazi Mbatha",
+    "about": "Leadership",
+    "image": "https://i.postimg.cc/wBgVGCHK/IMG-20250531-WA0015.jpg"
+  },
+  {
+    "id": 3,
     "name": "Sfundo Makhanya",
     "about": "Inceku",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Nhlonipho Makhanya",
     "about": "Ka Bo Yellow",
     "image": "https://i.postimg.cc/c1pswtK6/20250225-073753.jpg"
   },
   
   {
-    "id": 4,
+    "id": 5,
     "name": "Kwazikwenkosi Sthole",
     "about": "Mzala",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   },
   
   {
-    "id": 5,
+    "id": 6,
     "name": "Zamani Ndlovu",
     "about": "Slenda Sama-khathalog",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Kuzakahle Khoza",
     "about": "Ibhaka-bhaka",
     "image": "https://i.postimg.cc/50mtnxDD/20250129-084534.jpg"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Nkosenhle Sthole",
     "about": "Long man",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   },
   
   {
-    "id": 8,
+    "id": 9,
+    "name": "Sanele Khumalo",
+    "about": "Sdudl'esnojesu",
+    "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
+  },
+  
+  {
+    "id": 10,
     "name": "Sanele Khumalo",
     "about": "Sdudl'esnojesu",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
