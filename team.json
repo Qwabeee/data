@@ -5,7 +5,6 @@
     "about": "Scam",
     "image": "https://i.postimg.cc/FRSRcyxF/IMG-20241120-103153.jpg"
   },
-  
   {
     "id": 2,
     "name": "Snokwazi Mbatha",
@@ -24,14 +23,12 @@
     "about": "Ka Bo Yellow",
     "image": "https://i.postimg.cc/c1pswtK6/20250225-073753.jpg"
   },
-  
   {
     "id": 5,
-    "name": "Kwazikwenkosi Sthole",
-    "about": "Mzala",
+    "name": "Dumsile Mtshali",
+    "about": "Dumie-Dumie",
     "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   },
-  
   {
     "id": 6,
     "name": "Zamani Ndlovu",
@@ -50,7 +47,6 @@
     "about": "Long man",
     "image": "https://i.postimg.cc/Vst5TdNt/IMG-20241118-124105.jpg"
   },
-  
   {
     "id": 9,
     "name": "Sanele Khumalo",
@@ -66,7 +62,13 @@
   {
     "id": 11,
     "name": "Zakhele Khumalo",
-    "about": "Mzeke Zeke",
+    "about": "Mzeke-Zeke",
     "image": "https://i.postimg.cc/v845mYZ8/IMG-20250531-WA0022.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kwazikwenkosi Sthole",
+    "about": "Mzala",
+    "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   }
 ]
