@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Sbusiso Xulu",
-    "about": "Ibhaka-bhaka",
+    "about": "Scam",
     "image": "https://i.postimg.cc/FRSRcyxF/IMG-20241120-103153.jpg"
   },
   {
@@ -17,10 +17,37 @@
     "about": "Ka Bo Yellow",
     "image": "https://i.postimg.cc/c1pswtK6/20250225-073753.jpg"
   },
+  
   {
     "id": 4,
+    "name": "Kwazikwenkosi Sthole",
+    "about": "Mzala",
+    "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
+  },
+  
+  {
+    "id": 5,
+    "name": "Zamani Ndlovu",
+    "about": "Slenda Sama-khathalog",
+    "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
+  },
+  {
+    "id": 6,
     "name": "Kuzakahle Khoza",
     "about": "Ibhaka-bhaka",
     "image": "https://i.postimg.cc/50mtnxDD/20250129-084534.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nkosenhle Sthole",
+    "about": "Long man",
+    "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
+  },
+  
+  {
+    "id": 8,
+    "name": "Sanele Khumalo",
+    "about": "Sdudl'esnojesu",
+    "image": "https://i.postimg.cc/3xSPLgn6/20250324-085455.jpg"
   }
 ]
