@@ -39,7 +39,7 @@
     "id": 7,
     "name": "Asanda Majola",
     "about": "KaMajola",
-    "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
+    "image": "https://i.postimg.cc/rwsgNb6y/IMG-20250601-WA0005.jpg"
   },
   {
     "id": 8,
@@ -85,26 +85,26 @@
   },
   {
     "id": 15,
+    "name": "Nontobeko Ntombela",
+    "about": "Ntoe",
+    "image": "https://i.postimg.cc/mgnjXwRY/IMG-20250601-WA0007.jpg"
+  },
+  {
+    "id": 16,
     "name": "Lusanda Ntuli",
     "about": "Impisi",
     "image": "https://i.postimg.cc/MZBfXRTs/20250224-085607.jpg"
   },
   {
-    "id": 16,
-    "name": "Member name",
-    "about": "Nickname",
-    "image": "https://.cc/c1pswtK6/20250225-073753.jpg"
-  },
-  {
     "id": 17,
     "name": "Nomnotho Mazibuko",
     "about": "Mnotho",
-    "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
+    "image": "https://i.postimg.cc/bN33bPBF/IMG-20250601-WA0003_(1).jpg"
   },
   {
     "id": 18,
-    "name": "Nontobeko Ntombela",
-    "about": "Ntoe",
-    "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
+    "name": "Member Name",
+    "about": "Nickname",
+    "image": "https://i..cc/Qt9mFt9p/20250224-150223.jpg"
   },
 ]
