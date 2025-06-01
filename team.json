@@ -36,12 +36,6 @@
     "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
   },
   {
-    "id": 7,
-    "name": "Nkosnomusa Masondo",
-    "about": "Aus'Nomsa",
-    "image": "https://i.postimg.cc/XYdZCqR3/IMG-20250221-WA0003.jpg"
-  },
-  {
     "id": 8,
     "name": "Kuzakahle Khoza",
     "about": "Ibhaka-bhaka",
@@ -91,8 +85,8 @@
   },
   {
     "id": 16,
-    "name": "Nhlonipho Makhanya",
-    "about": "Yellow-Bone",
-    "image": "https://i.postimg.cc/c1pswtK6/20250225-073753.jpg"
+    "name": "Member name",
+    "about": "Nickname",
+    "image": "https://.cc/c1pswtK6/20250225-073753.jpg"
   }
 ]
