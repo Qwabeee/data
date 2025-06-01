@@ -36,6 +36,12 @@
     "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
   },
   {
+    "id": 7,
+    "name": "Asanda Majola",
+    "about": "KaMajola",
+    "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
+  },
+  {
     "id": 8,
     "name": "Kuzakahle Khoza",
     "about": "Ibhaka-bhaka",
@@ -88,5 +94,17 @@
     "name": "Member name",
     "about": "Nickname",
     "image": "https://.cc/c1pswtK6/20250225-073753.jpg"
-  }
+  },
+  {
+    "id": 17,
+    "name": "Nomnotho Mazibuko",
+    "about": "Mnotho",
+    "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Nontobeko Ntombela",
+    "about": "Ntoe",
+    "image": "https://i.postimg.cc/Qt9mFt9p/20250224-150223.jpg"
+  },
 ]
